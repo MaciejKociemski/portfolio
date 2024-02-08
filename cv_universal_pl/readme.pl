@@ -6,3 +6,5 @@ skondensowano umiejetnosci na potrzeby uniwersalnosci cv dla pracuj.pl
 
 2024-02-07 10:43
 dodano skill analiza 
+
+2024-02-08 10:47 dodano numer telefonu prawidlowy
